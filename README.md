@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">I'm a passionate Software Engineer who enjoys designing and developing scalable, efficient, and user-friendly applications. I thrive on solving complex problems, exploring emerging technologies, and contributing to innovative software solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmawasi&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmawasi" /> </p>
 
