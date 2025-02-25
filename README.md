@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">Software Engineer</h3>
+## 🚀 Software Developer | Web Developer   
+
+Building efficient, elegant, and intuitive solutions for complex challenges.  
+
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmawasi&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmawasi" /> </p>
 
