@@ -6,7 +6,6 @@ Building efficient, elegant, and intuitive solutions for complex challenges.
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanmawasi&label=Profile%20views&color=0e75b6&style=flat" alt="hasanmawasi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanmawasi" alt="hasanmawasi" /></a> </p>
 
