@@ -13,7 +13,7 @@ Building efficient, elegant, and intuitive solutions for complex challenges.
 
 - 🔭 I’m Currently learning **Software Engineering fundamentals**
 
-- 👯 Exploring: **System design, object-oriented programming**
+- 🧐 Exploring: **System design, object-oriented programming**
 
 - 💬 Ask me about **Web development, backend, and databases**
 
